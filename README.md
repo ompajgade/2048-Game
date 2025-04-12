@@ -12,21 +12,11 @@ A clean and responsive clone of the classic **2048 puzzle game**, built with Pyt
 
 **2048** is a sliding number puzzle game where the objective is to combine tiles with the same value until you reach the 2048 tile.
 
-- Grid size: 4x4
-- Input: Arrow keys
-- Score tracking
-- Game Over detection
+- Grid size: 4x4  
+- Input: Arrow keys  
+- Score tracking  
+- Game Over detection  
 - Lightweight and simple UI using Tkinter
-
----
-
-## 🚀 Demo
-
-> *(Add a screenshot or GIF here if available)*
-
-<p align="center">
-  <img src="screenshots/demo.gif" alt="2048 Demo" width="400"/>
-</p>
 
 ---
 
