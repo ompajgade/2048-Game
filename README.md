@@ -35,18 +35,6 @@ A clean and responsive clone of the classic **2048 puzzle game**, built with Pyt
 
 - Python 3.x
 
-### ▶️ Run the Game
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/2048-Game.git
-
-# Navigate into the project folder
-cd 2048-Game
-
-# Run the game
-python 2048.py
-
 ## 🙋‍♂️ Author
 
 **Om Manoj Pajgade**  
@@ -62,3 +50,15 @@ This project is licensed under the [MIT License](LICENSE).
 - Original 2048 Game by [Gabriele Cirulli](https://github.com/gabrielecirulli/2048)
 - Inspired by the love of puzzles and clean UI development
 
+
+### ▶️ Run the Game
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/2048-Game.git
+
+# Navigate into the project folder
+cd 2048-Game
+
+# Run the game
+python 2048.py
