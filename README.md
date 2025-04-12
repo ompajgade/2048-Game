@@ -1,44 +1,58 @@
-# 2048 Game 🧩
+# 🎮 2048 Game - Python (Tkinter)
 
-A simple clone of the popular 2048 puzzle game, developed using Python and the tkinter GUI library.
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![Made with Tkinter](https://img.shields.io/badge/Made%20with-Tkinter-blueviolet)](https://wiki.python.org/moin/TkInter)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
----
-
-## 🎮 About the Game
-
-2048 is a sliding tile puzzle game where the player combines numbered tiles on a grid to create the number 2048.
+A clean and responsive clone of the classic **2048 puzzle game**, built with Python and Tkinter GUI. Slide and merge the tiles to reach **2048**!
 
 ---
 
-## 🚀 Features
+## 🧩 Game Overview
 
-- Interactive 4x4 game grid
-- Keyboard-based controls (Arrow keys)
+**2048** is a sliding number puzzle game where the objective is to combine tiles with the same value until you reach the 2048 tile.
+
+- Grid size: 4x4
+- Input: Arrow keys
 - Score tracking
-- Game over detection
-- Simple and clean GUI using Tkinter
+- Game Over detection
+- Lightweight and simple UI using Tkinter
 
 ---
 
-## 🛠️ Technologies Used
+## 🚀 Demo
 
-- **Language:** Python
-- **Library:** Tkinter (for GUI)
+> *(Add a screenshot or GIF here if available)*
 
----
-
-## 📸 Screenshots
-
-> *(You can upload and add screenshots later)*
+<p align="center">
+  <img src="screenshots/demo.gif" alt="2048 Demo" width="400"/>
+</p>
 
 ---
 
-## ▶️ How to Run
+## 📦 Tech Stack
 
-### ✅ Prerequisites:
-- Python 3.x installed on your system
+| Tech        | Description              |
+|-------------|--------------------------|
+| Python 🐍    | Core programming language |
+| Tkinter 🖼️   | GUI framework for Python  |
 
-### 🧪 Run the game:
+---
+
+## 🛠️ How to Run the Project
+
+### ✅ Requirements
+
+- Python 3.x
+
+### ▶️ Run the Game
 
 ```bash
+# Clone the repository
+git clone https://github.com/your-username/2048-Game.git
+
+# Navigate into the project folder
+cd 2048-Game
+
+# Run the game
 python 2048.py
