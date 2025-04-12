@@ -39,7 +39,7 @@ A clean and responsive clone of the classic **2048 puzzle game**, built with Pyt
 
 **Om Manoj Pajgade**  
 🎓 B.Tech CSE (AI & ML), GHRCEM Pune  
-📫 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/om-pajgade)
+📫 [LinkedIn](https://www.linkedin.com/in/ompajgade/) • [GitHub](https://github.com/ompajgade)
 
 ## 📄 License
 
