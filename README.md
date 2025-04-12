@@ -46,3 +46,19 @@ cd 2048-Game
 
 # Run the game
 python 2048.py
+
+## 🙋‍♂️ Author
+
+**Om Manoj Pajgade**  
+🎓 B.Tech CSE (AI & ML), GHRCEM Pune  
+📫 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/om-pajgade)
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## 🌟 Acknowledgements
+
+- Original 2048 Game by [Gabriele Cirulli](https://github.com/gabrielecirulli/2048)
+- Inspired by the love of puzzles and clean UI development
+
